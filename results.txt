@@ -1,0 +1,4 @@
+CH,Bern,Ittigen,3303,SWISSCOM Swisscom Switzerland Ltd, CH
+US,California,San Francisco,NA,NA
+IL,Jerusalem,Jerusalem,12400,PARTNER-AS, IL
+IN,Delhi,Delhi,9829,BSNL-NIB National Internet Backbone, IN
